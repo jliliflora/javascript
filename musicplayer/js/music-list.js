@@ -35,12 +35,6 @@ let allMusic = [
     src: "BlackSwan"
   },
   {
-    name: "Save Me",
-    artist: "BTS",
-    img: "saveme",
-    src: "SaveMe"
-  },
-  {
     name: "House of Cards",
     artist: "BTS",
     img: "houseofcards",

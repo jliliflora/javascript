@@ -11,6 +11,18 @@
 
 let allMusic = [
   {
+    name: "Dynamite",
+    artist: "BTS",
+    img: "Dynamite",
+    src: "Dynamite"
+  },
+  {
+    name: "작은 것들을 위한 시",
+    artist: "BTS",
+    img: "작은것들을위한시",
+    src: "작은것들을위한시"
+  },
+  {
     name: "불타오르네",
     artist: "BTS",
     img: "불타오르네",

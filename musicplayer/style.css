@@ -28,7 +28,8 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #26272c;
+  /* background: #26272c; */
+  background: #ffffff;
 }
 .wrapper{
   width: 380px;
@@ -37,7 +38,7 @@ body{
   position: relative;
   border-radius: 15px;
   background: var(--darkgrey);
-  box-shadow: 0px 6px 15px var(--lightbshadow);
+  box-shadow: 0px 0px 0px var(--lightbshadow);
 }
 .wrapper i{
   cursor: pointer;
@@ -161,7 +162,7 @@ body{
   justify-content: center;
   border-radius: 50%;
   background: linear-gradient(135deg, #ffd074 0%, #857bd6 100%);
-  box-shadow: 0px 0px 10px #ffd074;
+  box-shadow: 0px 0px 5px #ffd074;
 }
 .play-pause::before{
   position: absolute;
